@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+
+	<main role="main">
+
+{{ range .Data.Pages.GroupBy "Section" }}
+<h1>{{ .Key }} </h1>
+  {{ range (where .Pages ".Params.hidefromhome" "!=" "true") }}
+    {{ .Render "li" }}
+  {{ end }}
+{{ end }}
+	</main>
+
+{{ partial "footer.html" . }}

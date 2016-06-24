@@ -1,0 +1,8 @@
+baseurl = "https://poorimpulse.github.io/fae-spacepirate/"
+languageCode = "en-us"
+title = "FAE Space Pirates"
+theme = "hugo-zen"
+copyright = "Russell Hay See License"
+
+[params]
+  logo = "/fae-spacepirate/logo.png"
