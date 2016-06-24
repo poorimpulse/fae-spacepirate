@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAE Space Pirates</title>
+    <link>https://poorimpulse.github.io/fae-spacepirate/</link>
+    <description>Recent content on FAE Space Pirates</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Russell Hay See License</copyright>
+    <atom:link href="https://poorimpulse.github.io/fae-spacepirate/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Starship</title>
+      <link>https://poorimpulse.github.io/fae-spacepirate/rules/starship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://poorimpulse.github.io/fae-spacepirate/rules/starship/</guid>
+      <description>
+
+&lt;p&gt;A starship is any vehical that is capable of interstellar travel.  Following
+the Fate Fractal, a starship is defined by:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Two Aspects&lt;/li&gt;
+&lt;li&gt;One Stunt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition, a starship contains two stress tracks:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hull&lt;/li&gt;
+&lt;li&gt;Systems&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The exact number of boxes associated with each stress track depends on the
+type of ship it is.  Additional stress tracks can be created for different
+systems (e.g. shields, weapons, life support) if it is desired.
+See Examples below.&lt;/p&gt;
+
+&lt;h2 id=&#34;weapon-systems:c63bfe9f5973b70c3ec26ce0239fa322&#34;&gt;Weapon Systems&lt;/h2&gt;
+
+&lt;p&gt;Weapon systems are one additional layer to a starship that needs to be
+considered.  It can be assumed that all starships have a basic weapon system
+which are forward-facing &amp;ldquo;asteroid-destroyers&amp;rdquo;, small wavelength, moderately
+powerful lasers designed to, well, destroy asteroids.&lt;/p&gt;
+
+&lt;p&gt;In games that will focus heavily on ship-to-ship combat, a starship can have
+two additional aspects to represent the weapons systems, otherwise, weapon
+systems should be treated just like &amp;ldquo;extras&amp;rdquo; from Fate Core.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-weapon-system-aspects:c63bfe9f5973b70c3ec26ce0239fa322&#34;&gt;Example Weapon System Aspects&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;todo&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;crewing-the-ship:c63bfe9f5973b70c3ec26ce0239fa322&#34;&gt;Crewing The Ship&lt;/h2&gt;
+
+&lt;p&gt;Each standing member of a starship should take an aspect that represents
+their place on the starship.  This aspect will relate to their job on the
+starship and what they contribute to the overall community of that starship.&lt;/p&gt;
+
+&lt;p&gt;In many instances, only one character can be a certain role.  Here are the
+roles that are unique on a starship.&lt;/p&gt;
+
+&lt;h3 id=&#34;captain:c63bfe9f5973b70c3ec26ce0239fa322&#34;&gt;Captain&lt;/h3&gt;
+
+&lt;p&gt;Commander of the ship who has ultimate authority over the goings on on the
+ship.  This is usually the most charismatic person on the ship, but sometimes
+the most feared.&lt;/p&gt;
+
+&lt;h3 id=&#34;quartermaster:c63bfe9f5973b70c3ec26ce0239fa322&#34;&gt;Quartermaster&lt;/h3&gt;
+
+&lt;p&gt;During combat, the Quartermaster is in charge.  They are the admiral at
+arms, and are responsible for tactics in the heat of a battle.  While the
+captain maintains ultimate authority, during a battle, the QM calls the shots.&lt;/p&gt;
+
+&lt;p&gt;A quartermaster is usually only found on war ships.&lt;/p&gt;
+
+&lt;h3 id=&#34;starnav:c63bfe9f5973b70c3ec26ce0239fa322&#34;&gt;Starnav&lt;/h3&gt;
+
+&lt;p&gt;The starnav is responsible for navigation among the stars and wormholes that
+exist in the world.  They are responsible for staying the course, and getting
+the starship from location to location.&lt;/p&gt;
+
+&lt;h3 id=&#34;boatswain:c63bfe9f5973b70c3ec26ce0239fa322&#34;&gt;Boatswain&lt;/h3&gt;
+
+&lt;p&gt;The Boatswain is responsible for communication on the starship, across all
+departments, and to effectively communicate the captain&amp;rsquo;s desires.  They
+also tend to the supervision of less critical roles, like the galley, and
+ensuring the starship stays clean.  They are usually the one who operates
+communication devices for inter-ship communications.&lt;/p&gt;
+
+&lt;h3 id=&#34;chief-engineer:c63bfe9f5973b70c3ec26ce0239fa322&#34;&gt;Chief Engineer&lt;/h3&gt;
+
+&lt;p&gt;The Chief Engineer is responsible for the maintanence of the starship, and
+ensuring that all systems are functional and that the hull remains in good
+repair.  A starship lives and dies by the integrity of it&amp;rsquo;s hull, and the
+Chief Engineer is the master of it.&lt;/p&gt;
+
+&lt;h3 id=&#34;master-gunner:c63bfe9f5973b70c3ec26ce0239fa322&#34;&gt;Master Gunner&lt;/h3&gt;
+
+&lt;p&gt;On war ships, the master gunner is in charge of the weapon and shield systems.
+In the case of needed ammunition, the master gunner is also in charge of
+keeping track of stock and informing the captain when more ammunition is
+needed.  They also work with the Chief Engineer to ensure that everything
+is kept in good working order.&lt;/p&gt;
+
+&lt;h3 id=&#34;rigger:c63bfe9f5973b70c3ec26ce0239fa322&#34;&gt;Rigger&lt;/h3&gt;
+
+&lt;p&gt;Need something fixed that isn&amp;rsquo;t easily within reach?  The rigger&amp;rsquo;s got you
+covered.  Their responsibilities include any EVA missions, as well as climbing
+through any of the duct work.  If it&amp;rsquo;s high up, in the vacuum of space, or
+requires a complicated set of pulleys and rope to get to, the rigger will
+be who you&amp;rsquo;d call on.&lt;/p&gt;
+
+&lt;h3 id=&#34;other-roles:c63bfe9f5973b70c3ec26ce0239fa322&#34;&gt;Other roles&lt;/h3&gt;
+
+&lt;p&gt;Like any ship, a starship will contain a host of able bodied sailors to help
+with anything that needs to happen.  On certain ships, and with Captains who
+fancy themselves more important than they really are, a cabin child might
+be on board to act as their valet.&lt;/p&gt;
+
+&lt;h2 id=&#34;example-starships:c63bfe9f5973b70c3ec26ce0239fa322&#34;&gt;Example Starships&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;todo&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
