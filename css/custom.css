@@ -21,6 +21,14 @@ section img {
   border: 2px solid #888888;
 }
 
+h2.sectionHeading {
+  margin-bottom: 1rem;
+}
+
+.section {
+  margin: 2rem;
+}
+
 header,
 footer {
   margin: 4rem 0;
@@ -31,9 +39,13 @@ main {
   margin: 4rem 0;
 }
 
+.index {
+  display: flex;
+}
+
 .container {
   width: 90%;
-  max-width: 600px;
+  max-width: 650px;
 }
 
 .header-logo img {
