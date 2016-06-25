@@ -3,10 +3,12 @@
 	<main role="main">
 
 {{ range .Data.Pages.GroupBy "Section" }}
-<h1>{{ .Key }} </h1>
+        <div class="section">
+<h2>{{ .Key }} </h2>
   {{ range (where .Pages ".Params.hidefromhome" "!=" "true") }}
     {{ .Render "li" }}
   {{ end }}
+        </div>
 {{ end }}
 	</main>
 
