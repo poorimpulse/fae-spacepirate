@@ -17,6 +17,10 @@ img {
   border: 0;
 }
 
+section img {
+  border: 2px solid #888888;
+}
+
 header,
 footer {
   margin: 4rem 0;
