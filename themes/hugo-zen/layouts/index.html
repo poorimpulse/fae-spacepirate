@@ -1,10 +1,10 @@
 {{ partial "header.html" . }}
 
-	<main role="main">
+	<main role="main" class="index">
 
 {{ range .Data.Pages.GroupBy "Section" }}
         <div class="section">
-<h2>{{ .Key }} </h2>
+<h2 class="sectionHeading">{{ .Key }} </h2>
   {{ range (where .Pages ".Params.hidefromhome" "!=" "true") }}
     {{ .Render "li" }}
   {{ end }}
