@@ -7,7 +7,15 @@
   </url>
   
   <url>
-    <loc>https://poorimpulse.github.io/fae-spacepirate/rules/starship/</loc>
+    <loc>https://poorimpulse.github.io/fae-spacepirate/world/space/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poorimpulse.github.io/fae-spacepirate/world/species/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poorimpulse.github.io/fae-spacepirate/world/starship/</loc>
   </url>
   
 </urlset>
