@@ -1,6 +1,6 @@
 +++
 title = "The Fireon (FE-re-OWN)"
-homefromhome = true
+hidefromhome = true
 +++
 The Fireon are bipedal felines.  They are rules by a council of seven elders, from the seven tribes of the Fireon.
 The Fireon are skilled warriors, fierce and deadly should someone cross their path.  While skilled at starship combat,
